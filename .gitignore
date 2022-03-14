@@ -5,3 +5,9 @@ data/
 *.tar.gz
 *.egg-info
 scripts/reader/official_eval.py
+
+venv
+models_lisandro
+datasets_lisandro
+__pycache__
+tmp/drqa-models
